@@ -1,5 +1,5 @@
 ﻿// Switch
-
+//Moath Ramzi
 Console.WriteLine("Plesae Enter number 1 :");
 int num_1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Plesae Enter number 2 :");
